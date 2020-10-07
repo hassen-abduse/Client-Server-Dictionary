@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Dictionary Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="068a3d10-b450-4703-8a44-d53faded292b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TcHjCrWD8s8u18KsUMZpMOnwFo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DictionaryServer">
+    <configuration name="DictionaryClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryClient" />
+      <module name="Dictionary Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryServer" />
+      <module name="Dictionary Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileHandler" />
+      <module name="Dictionary Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DictionaryServer" />
+        <item itemvalue="Application.DictionaryClient" />
+        <item itemvalue="Application.FileHandler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068a3d10-b450-4703-8a44-d53faded292b" name="Default Changelist" comment="" />
+      <created>1573752596351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573752596351</updated>
+      <workItem from="1580252513513" duration="1099000" />
+      <workItem from="1580294784506" duration="2969000" />
+      <workItem from="1580366271950" duration="603000" />
+      <workItem from="1580372894747" duration="1269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="160" key="GridCell.Tab.0.bottom" timestamp="1580372769488">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1580372769488" />
+    <state width="1320" height="160" key="GridCell.Tab.0.center" timestamp="1580372769488">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1580372769488" />
+    <state width="1320" height="160" key="GridCell.Tab.0.left" timestamp="1580372769487">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1580372769487" />
+    <state width="1320" height="160" key="GridCell.Tab.0.right" timestamp="1580372769488">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="160" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1580372769488" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Dictionary_Server$DictionaryServer.ic" NAME="DictionaryServer Coverage Results" MODIFIED="1573930520265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
